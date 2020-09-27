@@ -1,0 +1,1 @@
+This example is a minimal POC for connecting to Oracle
